@@ -1,0 +1,7 @@
+C:\Proyectos\buscaminas\usuarios\obj\x86\Debug\usuarios.Form1.resources
+C:\Proyectos\buscaminas\usuarios\obj\x86\Debug\usuarios.Properties.Resources.resources
+C:\Proyectos\buscaminas\usuarios\obj\x86\Debug\usuarios.csproj.GenerateResource.Cache
+C:\Proyectos\buscaminas\usuarios\bin\Debug\usuarios.exe
+C:\Proyectos\buscaminas\usuarios\bin\Debug\usuarios.pdb
+C:\Proyectos\buscaminas\usuarios\obj\x86\Debug\usuarios.exe
+C:\Proyectos\buscaminas\usuarios\obj\x86\Debug\usuarios.pdb

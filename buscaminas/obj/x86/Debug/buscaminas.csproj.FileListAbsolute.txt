@@ -1,0 +1,16 @@
+C:\Proyectos\buscaminas\buscaminas\bin\Debug\buscaminas.exe
+C:\Proyectos\buscaminas\buscaminas\bin\Debug\buscaminas.pdb
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.Properties.Resources.resources
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.csproj.GenerateResource.Cache
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.exe
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.pdb
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.Form1.resources
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.csprojResolveAssemblyReference.cache
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.Form3.resources
+C:\Proyectos\buscaminas\buscaminas\bin\Debug\buscaminas.exe.config
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.UserControl1.resources
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.personal.resources
+C:\Proyectos\buscaminas\buscaminas\obj\x86\Debug\buscaminas.final.resources
+C:\Users\Desarrollo6\Desktop\Diego\buscaminas\buscaminas\bin\Debug\buscaminas.exe.config
+C:\Users\Desarrollo6\Desktop\Diego\buscaminas\buscaminas\obj\x86\Debug\buscaminas.exe
+C:\Users\Desarrollo6\Desktop\Diego\buscaminas\buscaminas\obj\x86\Debug\buscaminas.pdb
